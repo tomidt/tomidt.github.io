@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Althletic Software Engineering"
+title: "Athletic Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-18
 published: true
@@ -9,11 +9,11 @@ labels:
   - Engineering
 ---
 
-#img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
-#Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+##Athletic Software Engieering
 
 Athletic software engineering is a nonstandard approach to teaching software engineering. In this teaching style, the focus is primarily on practice to create competency in the material. Similar to athletics like Crossfit, workouts are assigned everyday that exercise skills that need to be learned. These workouts or WODs for short, need to be solved in a timely manner. Failing to do so will result in a necessary redo in practice, and a failure during in class exams. Athletic software engineering has the advantage of putting students under pressure, forcing them to learn much quicker.
+
+##My Introduction
 
 The class ICS 314, Software Engineering, taught by Cam Moore, is my first experience with this method of teaching. As I am currently taking the class, my opinion of this method of teaching is still developing. However, my first impression is that it is an excellent way to learn. With the classes focus on mastery, I find myself much more confident in the material that is being covered. The WODs definitely help develop this. Even if I may not understand the material the first time around, practicing until I do creates a much stronger foundation for me to build upon.
 

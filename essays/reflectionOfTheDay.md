@@ -8,7 +8,12 @@ published: true
 labels:
   - Engineering
 ---
-## Athletic Software Engineering
+## Javascript and Athletic Software Engineering
+
+### My Experience
+
+My first experience with using Javascript was in ICS 314. It is not a strongly typed language but it also supports functional programming. The interesting part of the language is that it treats functions as just another datatype. This means that you can use them in return statements and as parameters to other functions. This type of programming is extremely interesting, but it also gets really complicated. I think I enjoy the new challenge that it brings.
+
 ### My Understanding
 
 Athletic software engineering is a nonstandard approach to teaching software engineering. In this teaching style, the focus is primarily on practice to create competency in the material. Similar to athletics like Crossfit, workouts are assigned everyday that exercise skills that need to be learned. These workouts or WODs for short, need to be solved in a timely manner. Failing to do so will result in a necessary redo in practice, and a failure during in class exams. Athletic software engineering has the advantage of putting students under pressure, forcing them to learn much quicker.

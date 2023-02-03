@@ -6,9 +6,10 @@ title: "PCHS"
 date: 2019
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Building
+  - Reconstruction
+  - Minecraft
+summary: "A faithful recreation of my highschool in Minecraft."
 ---
 
 <img class="img-fluid" src="../img/2023-01-29_11.17.14.png">

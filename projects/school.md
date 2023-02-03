@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/school1.png
+image: img/school2.png
 title: "PCHS"
 date: 2019
 published: true

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/zombies4.png
+image: img/zombies5.png
 title: "COD Zombies"
 date: 2022
 published: true

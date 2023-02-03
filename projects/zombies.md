@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2023-01-29_11.17.14.png
+image: img/zombies1.png
 title: "COD Zombies"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ summary: "A editor to create Call of Duty Zombies maps."
 ---
 <hr>
 
-<img class="img-fluid" src="../img/2023-01-29_11.17.14.png">
+<img class="img-fluid" src="../img/zombies1.png">
 
 <hr>
 
@@ -21,7 +21,7 @@ This was a project I started in my senior year of highschool. It was my last yea
 
 <hr>
 
-<img class="img-fluid" src="../img/2023-01-29_11.09.41.png">
+<img class="img-fluid" src="../img/zombies2.png">
 
 <hr>
 
@@ -32,4 +32,4 @@ To get over this hump, I restarted with a new plan to make a blueprint beforehan
 
 <hr>
 
-Source: <a href="https://github.com/tomidt/school/tree/main"><i class="large github icon "></i>tomidt/school</a>
+Source: <a href="https://github.com/tomidt/zombies"><i class="large github icon "></i>tomidt/zombies</a>

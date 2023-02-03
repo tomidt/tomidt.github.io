@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Deepfakes and the Future"
+# All dates must be YYYY-MM-DD format!
+date: 2023-02-02
+published: true
+labels:
+  - Essay
+  - AI
+  - Future
+---
 ## Deepfakes and the Future
 
 Deepfakes are a rapidly improving technology that has taken over the mainstream spotlights. Deepfakes are a computer generated media usually through artificial intelligence, that can depict subjects doing things or saying things they never did. With the rapidly developing technology of AI, deepfakes are now reasonably accessible to the public. This brings into question the impact they will have in the future.

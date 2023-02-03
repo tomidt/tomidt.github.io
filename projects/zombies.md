@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/zombies1.png
+image: img/zombies3.png
 title: "COD Zombies"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ summary: "A editor to create Call of Duty Zombies maps."
 ---
 <hr>
 
-<img class="img-fluid" src="../img/zombies3.png">
+<img class="img-fluid" src="../img/zombies1.png">
 
 <hr>
 

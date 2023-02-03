@@ -13,7 +13,7 @@ summary: "A editor to create Call of Duty Zombies maps."
 ---
 <hr>
 
-<img class="img-fluid" src="../img/zombies1.png">
+<img class="img-fluid" src="../img/zombies3.png">
 
 <hr>
 

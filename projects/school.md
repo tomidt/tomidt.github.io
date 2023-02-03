@@ -32,4 +32,4 @@ To get over this hump, I restarted with a new plan to make a blueprint beforehan
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/tomidt/school/tree/main"><i class="large github icon "></i>tomidt/school</a>

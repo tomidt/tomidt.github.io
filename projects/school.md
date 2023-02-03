@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2023-01-29_11.17.14.png
+image: img/school1.png
 title: "PCHS"
 date: 2019
 published: true

@@ -9,8 +9,8 @@
     "summary": "I am studying Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "Given upon request", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "tomidt", "url": "https://tomidt.github.io/" },
+      { "network": "linkedin", "username": "tomidt", "url": "https://www.linkedin.com/in/dustin-tomi-87a13b262/" }
     ]
   },
   "interests": [

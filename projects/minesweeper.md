@@ -88,4 +88,4 @@ void update_player(int mine[r][c], int flag[r][c], int posr, int posc)
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="Source: <a href="https://github.com/tomidt/minesweeper"><i class="large github icon "></i>tomidt/minesweeper</a>

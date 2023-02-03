@@ -88,4 +88,4 @@ void update_player(int mine[r][c], int flag[r][c], int posr, int posc)
 
 <hr>
 
-Source: <a href="Source: <a href="https://github.com/tomidt/minesweeper"><i class="large github icon "></i>tomidt/minesweeper</a>
+Source: <a href="https://github.com/tomidt/minesweeper"><i class="large github icon "></i>tomidt/minesweeper</a>

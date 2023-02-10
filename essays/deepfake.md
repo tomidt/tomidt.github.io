@@ -4,7 +4,7 @@ type: essay
 title: "Deepfakes and the Future"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
-published: true
+published: false
 labels:
   - Essay
   - AI

@@ -1,0 +1,47 @@
+{
+  "basics": {
+    "name": "Dustin Tomi",
+    "label": "Student",
+    "picture": "https://github.com/tomidt.png",
+    "email": "tomid@hawaii.edu",
+    "phone": "808-260-8835",
+    "website": "https://tomidt.github.io/",
+    "summary": "I am studying Information and Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "location": { "address": "Given upon request", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "tomidt", "url": "https://github.com/tomidt" },
+      { "network": "linkedin", "username": "tomidt", "url": "https://www.linkedin.com/in/dustin-tomi-87a13b262/" }
+    ]
+  },
+  "interests": [
+    { "name": "Cyber Security" },
+    { "name": "Video Game Scripting" },
+    { "name": "Computer Games" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Lua" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Git/GitHub", "g++" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Information and Computer Science (expected Spring, 2024)",
+      "studyType": "B.A.",
+      "startDate": "2019",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

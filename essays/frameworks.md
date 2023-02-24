@@ -4,7 +4,7 @@ type: essay
 title: "Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2023-02-02
-published: false
+published: true
 labels:
   - Essay
   - AI
